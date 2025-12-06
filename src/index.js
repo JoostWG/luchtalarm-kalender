@@ -1,10 +1,10 @@
+import { gregorianEaster } from 'date-easter';
 import dayjs from 'dayjs';
-import ical, { ICalEventBusyStatus } from 'ical-generator';
-import fs from 'node:fs';
 import isoWeek from 'dayjs/plugin/isoWeek.js';
 import timezone from 'dayjs/plugin/timezone.js';
 import utc from 'dayjs/plugin/timezone.js';
-import { gregorianEaster } from 'date-easter'
+import ical, { ICalEventBusyStatus } from 'ical-generator';
+import fs from 'node:fs';
 
 dayjs.extend(utc);
 dayjs.extend(isoWeek);
@@ -38,7 +38,7 @@ for (const year of years) {
         let date = dayjs().year(year).month(month).startOf('month');
 
         while (date.isoWeekday() !== 1) {
-            date = date.add(1, "day");
+            date = date.add(1, 'day');
         }
 
         const start = date;
