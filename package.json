@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "build": "node index.js"
+    "build": "node src/index.js"
   },
   "dependencies": {
     "date-easter": "^1.0.3",
