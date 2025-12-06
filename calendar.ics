@@ -1,0 +1,345 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Luchtalarm 2025-2026
+X-WR-CALNAME:Luchtalarm 2025-2026
+BEGIN:VEVENT
+UID:47ac9084-926d-4caf-a214-45a3f453ae99
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:19967dc4-7577-4ff0-9c2a-361a7a387080
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250203
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:060366e2-a48b-4c2b-8cf3-706fd004421f
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250303
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:28144d6e-5e17-45b1-ab89-175dd39a91d1
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250407
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:75fcdb25-84e6-42d4-9278-8b9d4f8fe4ca
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250505
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:GEEN luchtalarm
+DESCRIPTION:Vandaag wordt het luchtalarm NIET getest i.v.m. een bijzondere
+  dag.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c64e82-75bb-4e8d-8144-9d106eb5256f
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250602
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:1de06a46-28bc-404d-8202-e10ad813c1f6
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250707
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0c65b74-a7e6-474a-af2e-3a4bf22dda7e
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250804
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:c09e7ea4-9bc5-4352-8238-06b271e790e1
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250901
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:3960be4b-343c-41d6-85b7-6cf7e8f3ea04
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251006
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:cef6d3ef-59d6-4c6c-be18-adb780ff2a34
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251103
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:f334ee88-fe5b-46dc-afe9-834e693a6b1f
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a1cdc39-8ff3-4743-8c12-730e3556c3c7
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:94c8dc2e-4029-441b-9a63-51caf8069ae1
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260202
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:15ac5417-47c2-4178-a9d0-bf2abf25a89d
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260302
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:e41b8463-a8bb-4a92-854b-be67f7f4500c
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260406
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:GEEN luchtalarm
+DESCRIPTION:Vandaag wordt het luchtalarm NIET getest i.v.m. een bijzondere
+  dag.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:470bcbdf-1411-44de-a03e-5521a667fbb8
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260504
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:GEEN luchtalarm
+DESCRIPTION:Vandaag wordt het luchtalarm NIET getest i.v.m. een bijzondere
+  dag.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:064a63f1-15b4-4099-8d9b-fcadff086744
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260601
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:909882a3-7446-4854-9ac4-24079adad09f
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260706
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:976d504c-d203-4c9d-89e4-850974ff619b
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:25999b00-9360-44a0-805a-0a2a60842305
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260907
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:3641f27b-b76f-48c9-a031-680b7b8b855f
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261005
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:6582de29-5bd0-4dc1-bb92-7f0de036e920
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:b56f94f7-4b12-4c19-be60-07f415bce728
+SEQUENCE:0
+DTSTAMP:20251206T222118Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261207
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Luchtalarm
+DESCRIPTION:Het luchtalarm zal vandaag om 12:00 getest worden.
+URL;VALUE=URI:https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-e
+ n-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR
