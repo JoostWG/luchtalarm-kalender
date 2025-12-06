@@ -1,0 +1,53 @@
+name: Build calendar
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 0 2 1 *' # Run every January 2nd at 00:00
+  push:
+    branches:
+      - master
+    paths:
+      - calendar_test/index.js
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Checkout target branch
+        run: |
+          git fetch origin build || true
+          git checkout build || git checkout --orphan build
+
+      - name: Copy files
+        run: |
+          # Remove existing files
+          git rm -rf . || true
+
+          # Copy build folder contents to root
+          cp -r ./build/* ./
+
+      - name: Commit
+        run: |
+          git add .
+          git commit -m "Update calendar" || echo "No changes to commit"
+
+      - name: Push
+        run: |
+          git push origin build --force
