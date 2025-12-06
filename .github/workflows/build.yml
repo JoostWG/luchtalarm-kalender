@@ -39,9 +39,13 @@ jobs:
         run: |
           # Remove existing files
           git rm -rf . || true
+          rm -rf node_modules
 
           # Copy build folder contents to root
           cp -r ./build/* ./
+
+          # Delete build folder
+          rm -rf build
 
       - name: Commit
         run: |
