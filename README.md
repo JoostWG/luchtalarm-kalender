@@ -1,6 +1,6 @@
 # Luchtalarm kalender
 
-![](https://github.com/JoostWG/luchtalarm-kalender/actions/workflows/build.yml/badge.svg)
+[![](https://github.com/JoostWG/luchtalarm-kalender/actions/workflows/build.yml/badge.svg)](https://github.com/JoostWG/luchtalarm-kalender/actions/workflows/build.yml)
 
 Automatische kalender met de momenten waarop het luchtalarm getest wordt.
 
