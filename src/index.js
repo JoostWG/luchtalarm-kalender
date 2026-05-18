@@ -1,14 +1,8 @@
-import { gregorianEaster } from 'date-easter';
 import dayjs from 'dayjs';
-import isoWeek from 'dayjs/plugin/isoWeek.js';
-import timezone from 'dayjs/plugin/timezone.js';
-import utc from 'dayjs/plugin/timezone.js';
 import ical, { ICalEventBusyStatus } from 'ical-generator';
+import { getAlarmDays, getFirstMondays } from 'luchtalarm/dayjs';
 import fs from 'node:fs';
 
-dayjs.extend(utc);
-dayjs.extend(isoWeek);
-dayjs.extend(timezone);
 
 const currentYear = dayjs().year();
 const years = [currentYear, currentYear + 1];
@@ -20,31 +14,13 @@ const calendar = ical({
 });
 
 for (const year of years) {
-    const easter = gregorianEaster(year);
+    const alarmDays = Array.from(getAlarmDays(year));
 
-    // We only care about mondays so only second easter day is important here
-    const secondEasterDay = dayjs(`${easter.year}-${easter.month}-${easter.day}`).add(1, 'day');
-
-    const skipped = [
-        `1-1-${year}`, // Nieuwjaarsdag
-        secondEasterDay.format('D-M-YYYY'), // Tweede paasdag
-        `27-4-${year}`, // Koningsdag
-        `4-5-${year}`, // Herdenking
-        `5-5-${year}`, // Bevrijdingsdag
-        secondEasterDay.add(7, 'weeks').format('D-M-YYYY'), // Tweede pinksterdag
-    ];
-
-    for (let month = 0; month < 12; month++) {
-        let date = dayjs().year(year).month(month).startOf('month');
-
-        while (date.isoWeekday() !== 1) {
-            date = date.add(1, 'day');
-        }
-
+    for (const date of getFirstMondays(year)) {
         const start = date;
         const end = date;
 
-        if (skipped.includes(date.format('D-M-YYYY'))) {
+        if (!alarmDays.some((day) => day.isSame(date, 'day'))) {
             console.log(`Skipping ${date.format('dddd D MMMM YYYY')}`);
 
             calendar.createEvent({
